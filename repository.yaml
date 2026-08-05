@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Vaultwarden (cjersey Fork)
+url: 'https://github.com/cjersey/app-vaultwarden'
+maintainer: CJersey
