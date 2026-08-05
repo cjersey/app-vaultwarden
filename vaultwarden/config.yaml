@@ -1,8 +1,8 @@
 ---
 name: Vaultwarden
-version: dev
+version: 0.27.1
 slug: bitwarden
-description: Open source password management solution
+description: Open source password management solution (Cjersey Fork)
 url: https://github.com/hassio-addons/app-vaultwarden
 webui: "[PROTO:ssl]://[HOST]:[PORT:7277]"
 init: false
